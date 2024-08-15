@@ -4,6 +4,9 @@
 
 ![Eriel Victor](https://github-readme-stats.vercel.app/api?username=ErielVictor&show_icons=true&theme=transparent)
 
+* 🧑🏽‍💻 - Cursando Análise e desenvolvimento de sistemas
+
+
 ## My daily use programms
 
 <div style="display: inline_block"><br/>
