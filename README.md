@@ -1,3 +1,25 @@
+<h1 align="left">Hey Devs!!</h1>
+
+###
+
+<h4 align="left">Welcome to my profile! My name is Eriel Victor and I like to create softwares and games!</h4>
+
+###
+
+<h4 align="left">° Python Developer<br>° LuaU Developer<br>° Back-End</h4>
+
+
+`class ErielVictor:
+    name = "Eriel Victor Candido Soares Batista"
+    acknowledgements = "Back-End"
+
+    primarySkillset = {"English", "Portuguese", "time management", "project management"}`
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -16,6 +38,10 @@
 
 ###
 
+<h2 align="left">Social Media</h2>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -26,6 +52,12 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">Stats</h2>
 
 ###
 
