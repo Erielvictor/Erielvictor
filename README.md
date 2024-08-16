@@ -13,7 +13,7 @@
     name = "Eriel Victor Candido Soares Batista"
     acknowledgements = "Back-End"
     primarySkillset = {"English", "Portuguese", "time management", "project management"}
-    ```
+```
 ###
 
 <h2 align="left">Techs</h2>
