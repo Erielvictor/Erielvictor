@@ -9,7 +9,8 @@
 <h4 align="left">° Python Developer<br>° LuaU Developer<br>° Back-End</h4>
 
 
-```class ErielVictor:
+```
+class ErielVictor:
     name = "Eriel Victor Candido Soares Batista"
     acknowledgements = "Back-End"
     primarySkillset = {"English", "Portuguese", "time management", "project management"}
