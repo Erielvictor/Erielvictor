@@ -12,8 +12,8 @@
 ```
 class ErielVictor:
     name = "Eriel Victor Candido Soares Batista"
-    acknowledgements = "Back-End"
-    primarySkillset = {"English", "Portuguese", "time management", "project management"}
+    Acknowledgements = "Back-End"
+    Skillset = {"English", "Portuguese", "Kanban", "SCRUM"}
 ```
 ###
 
