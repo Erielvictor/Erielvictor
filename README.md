@@ -1,18 +1,18 @@
-<h1 align="center">Hi there, I'm Eriel Victor 👋</h1>
+<h1 align="center">Hi there, I'm Eriel Victor </h1>
 
 <h3 align="center">Back-End Developer | Python & LuaU</h3>
 
 <br>
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🔭 **Currently working on:** **Ledger** — A monthly expense control application built with **Python** and **React**.
-- 🚀 **Focus:** I am passionate about creating robust software, backend architecture, and game development.
-- 🤝 **Methodologies:** Agile, Kanban, and SCRUM.
+-  **Currently working on:** **Ledger** — A monthly expense control application built with **Python** and **React**.
+-  **Focus:** I am passionate about creating robust software, backend architecture, and game development.
+-  **Methodologies:** Agile, Kanban, and SCRUM.
 
 <br>
 
-## 🐍 Dev Profile
+## Dev Profile
 
 ```python
 class ErielVictor:
