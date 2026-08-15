@@ -19,7 +19,7 @@ class ErielVictor:
     def __init__(self):
         self.full_name = "Eriel Victor Candido Soares Batista"
         self.role = "Back-End Developer"
-        self.languages = ["Python", "LuaU", "Java", "JavaScript"]
+        self.languages = ["Python", "LuaU"]
         self.spoken_languages = ["Portuguese (Native)", "English"]
 
     def say_hi(self):
